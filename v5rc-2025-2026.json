@@ -7,7 +7,7 @@
   "version": "20251023",
   "ruleGroups": [
     {
-      "name": "Skills Challenge Rules",
+      "name": "Scoring Rules",
       "programs": [
         "V5RC",
         "VURC",
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "name": "RSC Rules",
+      "name": "Robot Skills Challenge Rules",
       "programs": [
         "V5RC",
         "VURC",

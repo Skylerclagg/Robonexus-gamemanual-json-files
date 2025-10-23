@@ -7,7 +7,7 @@
   "version": "20251023",
   "ruleGroups": [
     {
-      "name": "Skills Challenge Rules",
+      "name": "Scoring Rules",
       "programs": [
         "VIQRC"
       ],
@@ -607,7 +607,7 @@
       ]
     },
     {
-      "name": "RSC Rules",
+      "name": "Robot Skills Challenge Rules",
       "programs": [
         "VIQRC"
       ],
